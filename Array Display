@@ -1,0 +1,8 @@
+void array_display(int a[],int l)
+{
+  cout <<"{ ";
+  for (int i=0;i<l;i++)
+     cout <<a[i] <<" ";
+  cout <<'}';
+}
+ 
